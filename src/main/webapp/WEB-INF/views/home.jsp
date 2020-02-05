@@ -6,11 +6,6 @@
 <meta charset="UTF-8">
 <title>wine-quality chart</title>
 <%@include file="./common_resource.jsp"%>
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/modules/series-label.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
-<script src="https://code.highcharts.com/modules/export-data.js"></script>
-<script src="https://code.highcharts.com/modules/accessibility.js"></script>
 <link href="${pageContext.request.contextPath}/resources/css/home.css" rel="stylesheet" />
 </head>
 <body>
